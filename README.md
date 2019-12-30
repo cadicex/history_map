@@ -4,6 +4,7 @@
 功能：  
 
   三国地图（大图）浏览，支持地名搜索并定位  
+  ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.png)  
   
   两汉地图（大图）浏览  
   
