@@ -4,13 +4,17 @@
 功能：  
 
   三国地图（大图）浏览，支持地名搜索并定位  
-  ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.png)  
+  ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
   
   两汉地图（大图）浏览  
+  ![西汉地图](https://github.com/cadicex/history_map/blob/master/xihan.jpg)
+  ![东汉地图](https://github.com/cadicex/history_map/blob/master/donghan.jpg)
   
   大秦地图（大图）浏览 
-
+  ![大秦地图](https://github.com/cadicex/history_map/blob/master/qin.jpg)
+  
   大唐地图（大图）浏览  
+  ![大唐地图](https://github.com/cadicex/history_map/blob/master/tang.jpg)
   
   地图上添加简单标注，支持标注搜索    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
