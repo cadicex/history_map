@@ -13,7 +13,8 @@
   大唐地图（大图）浏览  
   
   地图上添加简单标注，支持标注搜索    
-
+  ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
+  
   地点百科查询（国学大师网站）  
 
 设备要求：  
