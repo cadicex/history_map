@@ -4,7 +4,8 @@
 功能：  
   支持多个历史时期的地图（拼接清晰大图）  
   ![地图支持](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2.jpg)  
-  
+  ![地图对齐](https://github.com/cadicex/history_map/blob/master/%E5%85%88%E7%A7%A6%E4%B8%A4%E6%B1%89%E4%B8%89%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%AF%B9%E9%BD%90.jpg)  
+    
   三国地图（大图）浏览，支持地名搜索并定位  
   ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
   
