@@ -2,7 +2,9 @@
 
 
 功能：  
-
+  支持多个历史时期的地图（拼接清晰大图）  
+  ![地图支持](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2.jpg)  
+  
   三国地图（大图）浏览，支持地名搜索并定位  
   ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
   
