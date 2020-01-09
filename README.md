@@ -34,8 +34,13 @@
   ![三国长按显示](https://github.com/cadicex/history_map/blob/master/%E4%B8%89%E5%9B%BD%E9%95%BF%E6%8C%89%E5%BC%B9%E6%A1%86%E6%98%BE%E7%A4%BA.jpg)  
   大唐地图长按左上角/右上角区域显示陇右道/河北道北部详图，支持缩放  
   ![大唐长按显示](https://github.com/cadicex/history_map/blob/master/%E5%A4%A7%E5%94%90%E9%95%BF%E6%8C%89%E5%BC%B9%E6%A1%86%E6%98%BE%E7%A4%BA.jpg) 
+
 设备要求：  
   安卓5.1以上  
+
+下载地址：  
+  https://github.com/cadicex/history_map/releases  
+  请选择相关版本Assets中apk
 
 TODO:  
 
