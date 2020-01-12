@@ -4,8 +4,12 @@
 功能：  
   支持多个历史时期的地图（拼接清晰大图）  
   ![地图支持](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2.jpg)  
+    
   ![地图对齐](https://github.com/cadicex/history_map/blob/master/%E5%85%88%E7%A7%A6%E4%B8%A4%E6%B1%89%E4%B8%89%E5%9B%BD%E5%9C%B0%E5%9B%BE%E5%AF%B9%E9%BD%90.jpg)  
     
+  春秋时期（大图）浏览
+  ![春秋时期](https://github.com/cadicex/history_map/blob/master/chunqiu.jpg)  
+  
   三国地图（大图）浏览，支持地名搜索并定位  
   ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
   
@@ -18,6 +22,9 @@
   
   大唐地图（大图）浏览  
   ![大唐地图](https://github.com/cadicex/history_map/blob/master/tang.jpg)
+  
+  大清帝国（大图）浏览
+  ![大清帝国](https://github.com/cadicex/history_map/blob/master/qing.jpg)  
   
   地图上添加简单标注，    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
