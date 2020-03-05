@@ -35,13 +35,7 @@
   地点百科查询（国学大师网站）  
   ![地点百科搜索按钮](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91.jpg)
   ![地点百科搜索](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91%E9%A1%B5%E9%9D%A2.jpg)
-
-使用提示：  
-  三国地图长按部分区域显示小插图，支持缩放
-  ![三国长按显示](https://github.com/cadicex/history_map/blob/master/%E4%B8%89%E5%9B%BD%E9%95%BF%E6%8C%89%E5%BC%B9%E6%A1%86%E6%98%BE%E7%A4%BA.jpg)  
-  大唐地图长按左上角/右上角区域显示陇右道/河北道北部详图，支持缩放  
-  ![大唐长按显示](https://github.com/cadicex/history_map/blob/master/%E5%A4%A7%E5%94%90%E9%95%BF%E6%8C%89%E5%BC%B9%E6%A1%86%E6%98%BE%E7%A4%BA.jpg) 
-
+  
 设备要求：  
   安卓5.1以上  
 
@@ -51,6 +45,6 @@
 
 TODO:  
 
-  增加隋、宋、明等地图   
+  增加晋、元等地图，增加地形图  
 
 PS：资料来源于互联网，仅限学习使用，禁止用于商业目的，否则后果自负，本人概不负责，如果有侵权请联系删除！  
