@@ -29,10 +29,10 @@
   地图上添加简单标注，    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
     
-  三国地图支持标注搜索，比如搜索荆州地点：  
+  春秋、两汉和三国地图支持标注搜索，比如搜索三国荆州地名：  
   ![历史地点搜索](https://github.com/cadicex/history_map/blob/master/%E6%90%9C%E7%B4%A2%E8%8D%86%E5%B7%9E.jpg)
   
-  地点百科查询（国学大师网站）  
+  地名百科查询（国学大师网站）  
   ![地点百科搜索按钮](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91.jpg)
   ![地点百科搜索](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91%E9%A1%B5%E9%9D%A2.jpg)
   
@@ -44,7 +44,7 @@
   请选择相关版本Assets中apk
 
 TODO:  
-  1、增加春秋，东汉历史地名搜索  
+  1、增加战国、秦历史地名搜索  
   2、增加晋、元等地图  
   3、支持标注复制粘贴
 
