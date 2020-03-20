@@ -9,16 +9,19 @@
     
   春秋时期（大图）浏览
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/chunqiu.jpg)  
+  
+  战国时期（大图）浏览  
+  ![战国时期](https://github.com/cadicex/history_map/blob/master/zhan_guo.jpg)  
     
   大秦地图（大图）浏览 
-  ![大秦地图](https://github.com/cadicex/history_map/blob/master/qin.jpg)  
-  
-  三国地图（大图）浏览，支持地名搜索并定位  
-  ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
+  ![大秦地图](https://github.com/cadicex/history_map/blob/master/qin.jpg)   
   
   两汉地图（大图）浏览  
   ![西汉地图](https://github.com/cadicex/history_map/blob/master/xihan.jpg)
   ![东汉地图](https://github.com/cadicex/history_map/blob/master/donghan.jpg)  
+
+  三国地图（大图）浏览，支持地名搜索并定位  
+  ![三国地图](https://github.com/cadicex/history_map/blob/master/sanguo.jpg)  
   
   大唐地图（大图）浏览  
   ![大唐地图](https://github.com/cadicex/history_map/blob/master/tang.jpg)
@@ -29,7 +32,7 @@
   地图上添加简单标注，    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
     
-  春秋、两汉和三国地图支持标注搜索，比如搜索三国荆州地名：  
+  春秋、战国、两汉和三国地图支持标注搜索，比如搜索三国荆州地名：  
   ![历史地点搜索](https://github.com/cadicex/history_map/blob/master/%E6%90%9C%E7%B4%A2%E8%8D%86%E5%B7%9E.jpg)
   
   地名百科查询（国学大师网站）  
@@ -44,7 +47,7 @@
   请选择相关版本Assets中apk
 
 TODO:  
-  1、增加战国、秦历史地名搜索  
+  1、增加秦历史地名搜索  
   2、增加晋、元等地图  
   3、支持标注复制粘贴
 
