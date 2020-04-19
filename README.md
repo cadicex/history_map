@@ -45,6 +45,8 @@
 下载地址：  
   https://github.com/cadicex/history_map/releases  
   请选择相关版本Assets中apk
+  
+  网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf
 
 TODO:  
   1、增加秦历史地名搜索  
