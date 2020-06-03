@@ -1,7 +1,16 @@
 谭其骧地图浏览和简单涂鸦  
+  
+设备要求：  
+  安卓5.1以上，win7（XP本人没测试）  
 
+下载地址：  
+  https://github.com/cadicex/history_map/releases  
+  请选择相关版本Assets中apk
+  
+  网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
+  网盘内包含最新的安卓版本和PC版本，另有部分相关电子书参考，密码为本人用户名!  
 
-功能：  
+主要功能：  
   支持多个历史时期的地图（拼接清晰大图）  
   ![地图支持](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2.jpg)  
     
@@ -39,15 +48,6 @@
   ![地点百科搜索按钮](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91.jpg)
   ![地点百科搜索](https://github.com/cadicex/history_map/blob/master/%E5%9C%B0%E7%82%B9%E7%99%BE%E7%A7%91%E9%A1%B5%E9%9D%A2.jpg)
   
-设备要求：  
-  安卓5.1以上  
-
-下载地址：  
-  https://github.com/cadicex/history_map/releases  
-  请选择相关版本Assets中apk
-  
-  网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
-  网盘内包含最新的安卓版本和PC版本，另有部分相关电子书参考，密码为本人用户名!
 
 TODO:  
   1、增加大明朝历史地名搜索  
