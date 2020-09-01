@@ -1,9 +1,9 @@
 谭其骧地图浏览和简单涂鸦  
   
 设备要求：  
-  安卓5.1以上  
-  win7/win10（XP以下本人没测试）  
-  MAC(OSX10.10以上)  
+    安卓5.1以上  
+    win7/win10（XP以下本人没测试）  
+    MAC(OSX10.10以上)  
 
 下载地址：  
   https://github.com/cadicex/history_map/releases  
