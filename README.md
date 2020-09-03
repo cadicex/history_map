@@ -21,8 +21,7 @@
   支持离线检索历史地名大辞典（史为乐）。  
   支持添加地图标注，支持多种标注工具，如手绘涂鸦、文字、折线等。  
 
-  以下是附图说明功能，更新可能不及时，可以参考主贴https://bbs.gxsd.com.cn/t-1554282.html  
-  支持多个历史时期的地图（拼接清晰大图）  
+  以下是附图说明功能，更新可能不及时，可以参考主贴https://bbs.gxsd.com.cn/t-1554282.html   
     
   春秋时期浏览
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/preview/chunqiu.jpg)  
