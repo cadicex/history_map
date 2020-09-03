@@ -5,11 +5,11 @@
     win7/win10（XP不支持）  
     MAC(OSX10.10以上)  
 
-下载地址：  
+安卓APP下载地址：  
   https://github.com/cadicex/history_map/releases  
   请选择相关版本Assets中apk
   
-  网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
+  所有资源的网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
   网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名!   
   备用软件链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv  
 
