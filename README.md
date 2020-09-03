@@ -10,7 +10,8 @@
   请选择相关版本Assets中apk
   
   网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
-  网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名!  
+  网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名! 
+  备用软件链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv  
 
 主要功能：  
   多个历史时期的高清地图（分幅图拼接），全部离线查看。  
