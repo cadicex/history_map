@@ -13,8 +13,8 @@
   请选择相关版本Assets中apk
   
   所有资源的网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
-  >>网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名!   
-  备用链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv 这里只放了软件。  
+  网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名cadicex!   
+  >备用链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv 这里只放了软件。  
 
 主要功能：  
 ---------
