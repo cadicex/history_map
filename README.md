@@ -3,9 +3,9 @@
 
 设备要求：  
 ---------
-    安卓5.1以上  
-    win7/win10（XP不支持）  
-    MAC(OSX10.10以上)  
+  安卓5.1以上  
+  win7/win10（XP不支持）  
+  MAC(OSX10.10以上)  
 
 安卓APP下载地址： 
 ----------------
@@ -13,8 +13,8 @@
   请选择相关版本Assets中apk
   
   所有资源的网盘地址：链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
-  网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名!   
-  备用软件链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv  
+  >>网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名!   
+  备用链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv 这里只放了软件。  
 
 主要功能：  
 ---------
@@ -27,25 +27,25 @@
 
   以下是附图说明功能，更新可能不及时，可以参考主贴https://bbs.gxsd.com.cn/t-1554282.html   
     
-  春秋时期浏览
+  `春秋时期浏览`
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/preview/chunqiu.jpg)  
   
-  西汉地图浏览  
+  `西汉地图浏览`  
   ![西汉地图](https://github.com/cadicex/history_map/blob/master/preview/xihan.jpg)  
 
-  三国地图浏览 
+  `三国地图浏览` 
   ![三国地图](https://github.com/cadicex/history_map/blob/master/preview/sanguo.jpg)  
   
-  大唐地图浏览  
+  `大唐地图浏览`  
   ![大唐地图](https://github.com/cadicex/history_map/blob/master/preview/tang.jpg)
   
-  大清帝国浏览
+  `大清帝国浏览`
   ![大清帝国](https://github.com/cadicex/history_map/blob/master/preview/qing.jpg)  
   
-  地图上添加简单标注：    
+  `地图上添加简单标注`    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
     
-  搜索历史地名：  
+  `搜索历史地名`  
   ![历史地点搜索](https://github.com/cadicex/history_map/blob/master/%E6%90%9C%E7%B4%A2%E8%8D%86%E5%B7%9E.jpg)  
 
 TODO:     
