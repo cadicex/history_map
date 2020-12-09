@@ -27,7 +27,7 @@
   `电脑版支持离线检索历史地名大辞典（史为乐）、安卓版支持国学大师网地名检索。`  
   `支持添加多种地图标注，如手绘涂鸦、箭头、文字、折线（可显示距离）等。`  
 
-  以下是附图说明功能，更新可能不及时，可以参考相关博客https://www.cnblogs.com/cadicex/  
+  以下是附图说明功能，更新可能不及时，可以参考相关博客https://www.cnblogs.com/cadicex/ 或关注微信公众号“历史地图集软件”  
     
   `春秋时期浏览`
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/preview/chunqiu.jpg)  
