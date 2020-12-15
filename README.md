@@ -5,18 +5,7 @@
 ---------
   安卓5.1以上  
   win7/win10（XP不支持）  
-  MAC(OSX10.10以上)  
-
-安卓APP下载地址： 
-----------------
-  https://github.com/cadicex/history_map/releases  
-  请选择相关版本Assets中apk
-  
-安卓APP和PC电脑版网盘地址：  
-------------------
-  链接:https://pan.baidu.com/s/1_1Y8GA5SHgARHoHNICgCHA 提取码:tbpf  
-  >网盘内包含最新的安卓版本和PC/MAC版本，另有部分相关电子书参考，密码为本人用户名cadicex!   
-  >备用链接：https://cloud.189.cn/t/ZnUNZzMNFjAz 访问码：8sjv 这里只放了软件。  
+  MAC(OSX10.10以上)    
 
 主要功能：  
 ---------
@@ -27,7 +16,12 @@
   `电脑版支持离线检索历史地名大辞典（史为乐）、安卓版支持国学大师网地名检索。`  
   `支持添加多种地图标注，如手绘涂鸦、箭头、文字、折线（可显示距离）等。`  
 
-  以下是附图说明功能，更新可能不及时，可以参考相关博客https://www.cnblogs.com/cadicex/ 或关注微信公众号“历史地图集软件”  
+下载地址： 
+----------------  
+  关注微信公众号“历史地图集软件”，发送“下载”。    
+----------------  
+
+  以下是附图说明功能，关注微信公众号获取最新更新消息。 
     
   `春秋时期浏览`
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/preview/chunqiu.jpg)  
