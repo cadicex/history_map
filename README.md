@@ -28,18 +28,19 @@
     
   `春秋时期浏览`
   ![春秋时期](https://github.com/cadicex/history_map/blob/master/preview/chunqiu.jpg)  
-  
-  `西汉地图浏览`  
-  ![西汉地图](https://github.com/cadicex/history_map/blob/master/preview/xihan.jpg)  
 
   `三国地图浏览` 
   ![三国地图](https://github.com/cadicex/history_map/blob/master/preview/sanguo.jpg)  
   
   `大唐地图浏览`  
-  ![大唐地图](https://github.com/cadicex/history_map/blob/master/preview/tang.jpg)
+  ![大唐地图](https://github.com/cadicex/history_map/blob/master/preview/datang.jpg)
   
-  `大清帝国浏览`
-  ![大清帝国](https://github.com/cadicex/history_map/blob/master/preview/qing.jpg)  
+  `大清地图浏览`
+  ![大清帝国](https://github.com/cadicex/history_map/blob/master/preview/daqing.jpg)  
+  
+  `地球模式浏览`
+  ![视图1](https://github.com/cadicex/history_map/blob/master/preview/earth1.jpg)  
+  ![视图2](https://github.com/cadicex/history_map/blob/master/preview/earth2.jpg)  
   
   `地图上添加简单标注`    
   ![标注](https://github.com/cadicex/history_map/blob/master/%E7%AE%80%E5%8D%95%E6%B6%82%E9%B8%A6.jpg)  
