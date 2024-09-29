@@ -40,6 +40,7 @@
   
   `地球模式浏览`
   ![视图1](https://github.com/cadicex/history_map/blob/master/preview/earth1.jpg)  
+  
   ![视图2](https://github.com/cadicex/history_map/blob/master/preview/earth2.jpg)  
   
   `地图上添加简单标注`    
